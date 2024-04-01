@@ -1,0 +1,29 @@
+body{
+    background-color: black;
+}
+#countLable{
+    display: block;
+    text-align:center;
+    font-size: 10em;
+    color:darkkhaki ;
+    font-style: normal;
+}
+#buttonContener{
+    text-align: center;
+}
+.button{
+    padding: 10px 20px;
+    font-size:1.5em ;
+    font-style:normal ;
+    background-color: rgb(65, 206, 241);
+    font-size: 2.5em;
+    border-radius: 5px;
+    cursor:pointer;
+}
+
+
+    
+
+  
+
+    
